@@ -1,6 +1,6 @@
 # Calculate Total Infrared Surface Density from any combinations of Herschel and Spitzer bands
 
-*The script is based on Table 3 of [Galametz et al. (2013)](https://academic.oup.com/mnras/article/431/2/1956/1469965)
+*The script is based on Table 3 of [Galametz et al. (2013)](https://academic.oup.com/mnras/article/431/2/1956/1469965)*
 
 Authors: J. Puschnig & S. Stelter
 
